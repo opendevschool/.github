@@ -2,4 +2,4 @@
 
 <br />
 
-_[Open book icon created by Azland Studio - Flaticon](https://www.flaticon.com/free-icons/open-book "open book icon")_
+_[Icon created by smashingstocks - Flaticon](https://www.flaticon.com/free-icons/blended-learning "blended learning icons")_
