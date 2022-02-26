@@ -1,4 +1,4 @@
-# [opendev.scrool <img src="/logo.svg" style="height:1em" />](https://opendev.scrool)
+# [opendev.school <img src="/logo.svg" style="height:1em" />](https://opendev.scrool)
 
 <br />
 
